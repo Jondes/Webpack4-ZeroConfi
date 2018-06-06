@@ -1,0 +1,1 @@
+document.write('this is webpack4 zero configurationdemo')

@@ -1,0 +1,16 @@
+{
+  "name": "Webpack4-ZeroConfi",
+  "version": "1.0.0",
+  "description": "npm install -g webpack webpack-cli\r open src folder and add index.js\r make an html file and import  \r <script src= \"./dist/main.js\"></script>\r commandline > webpack\r             > webpack --mode development\r             > http-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.2"
+  }
+}
